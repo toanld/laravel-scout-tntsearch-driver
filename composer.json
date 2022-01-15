@@ -1,5 +1,5 @@
 {
-    "name": "teamtnt/laravel-scout-tntsearch-driver",
+    "name": "toanld/laravel-scout-tntsearch-driver",
     "description": "Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch",
     "keywords": [
         "tntsearch",
